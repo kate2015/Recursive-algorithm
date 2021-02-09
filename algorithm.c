@@ -9,7 +9,6 @@
 int main()
 {
     int ans;
-    printf("Hello World");
     ans = fact(4);
     printf("%d", ans);
     return 0;
